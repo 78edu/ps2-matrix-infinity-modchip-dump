@@ -1,5 +1,7 @@
 # ps2-matrix-infinity-modchip-hex
 
+MODBO 5.0 DUMP ADDED, THANKS TO PP5DI.
+
 IF YOU HAVE SOMETHING ABOUT THIS MODCHIPS AND CLONES FIRMWARE AND ELF MENU PLEASE READ THE LIST:
 <br>
 1.You have dumped blue setup ELF directly from bios pins when console reads it (when you pressing circle and triangle).
